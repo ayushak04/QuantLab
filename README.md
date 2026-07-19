@@ -104,7 +104,6 @@ Allow Android Studio to sync the Gradle build files and download necessary depen
 Run the application:
 Select an emulator or a physical Android device and click the Run button (Shift + F10).
 
-.
 🤝 Contributing & License
 Note: Strict contribution guidelines and Open Source licenses will be applied in upcoming commits.
 
@@ -120,5 +119,8 @@ QuantLab is currently maintained as an active development portfolio piece.
    git add README.md
    git commit -m "docs: finalize readme with roadmap and build instructions"
    git push
+
+   
+
 
      
