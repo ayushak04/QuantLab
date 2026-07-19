@@ -1,0 +1,50 @@
+# -----------------------------------------
+# Android & Gradle Build Artifacts
+# -----------------------------------------
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Compiled class files
+*.class
+*.dex
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+*/build/
+
+# Gradle files
+.gradle/
+gradlew.bat
+
+# -----------------------------------------
+# Local Configuration & Secrets (CRITICAL)
+# -----------------------------------------
+# Local properties (Contains local SDK paths - MUST NOT BE COMMITTED)
+local.properties
+
+# Keystores and signing files (Keep your app secure)
+*.jks
+*.keystore
+signing.properties
+
+# Google Services config (If you add Firebase later)
+google-services.json
+
+# -----------------------------------------
+# IDE & Environment Files
+# -----------------------------------------
+# IntelliJ / Android Studio
+*.iml
+.idea/
+
+# macOS clutter
+.DS_Store
+
+# Windows clutter
+Thumbs.db
