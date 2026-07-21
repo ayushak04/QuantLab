@@ -34,11 +34,17 @@ Because the same inputs invariably generate identical outputs, this engine is ex
 > **Note:** Screenshots and interactive UI demonstrations will be populated here.
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Dashboard+UI" alt="Dashboard" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Month-by-Month+Data" alt="Simulation" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Tax+Analysis" alt="Tax Analysis" width="250"/>
+## 📱 Application Showcase
+
+| Splash Screen | Main Dashboard | SIP Calculator | Lump Sum Projections |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Splash screen.jpeg" width="220"/> | <img src="Screenshots/Dashboard.jpeg" width="220"/> | <img src="Screenshots/SIP screen.jpeg" width="220"/> | <img src="Screenshots/Lump sum screen.jpeg" width="220"/> |
+| *Initial loading screen establishing the app's brand and identity.* | *Central hub displaying total wealth summary and quick navigation.* | *Projection tools for Systematic Investment Plans and wealth compounding.* | *Growth forecasting for single, one-time investment amounts.* |
+
+| Real Wealth Analysis | Combined Portfolio (Standard) | Advanced Projections | Extended Configurations |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Real wealth screen.jpeg" width="220"/> | <img src="Screenshots/Combined screen(Without advanced settings).jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-1.jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-2.jpeg" width="220"/> |
+| *Inflation-adjusted returns to visualize true future purchasing power.* | *Holistic view of mixed investment strategies using standard parameters.* | *Detailed simulation incorporating custom step-up rates and variables.* | *Granular control over taxation, withdrawal rules, and risk factors.* |
 </p>
 
 ---
