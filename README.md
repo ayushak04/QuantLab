@@ -38,15 +38,14 @@ Because the same inputs invariably generate identical outputs, this engine is ex
 
 | Splash Screen | Main Dashboard | SIP Calculator | Lump Sum Projections |
 | :---: | :---: | :---: | :---: |
-| <img src="Screenshots/Splash screen.jpeg" width="220"/> | <img src="Screenshots/Dashboard.jpeg" width="220"/> | <img src="Screenshots/SIP screen.jpeg" width="220"/> | <img src="Screenshots/Lump sum screen.jpeg" width="220"/> |
+| <img src="Screenshots/Splash screen.jpeg" height="400"/> | <img src="Screenshots/Dashboard.jpeg" height="400"/> | <img src="Screenshots/SIP screen.jpeg" height="400"/> | <img src="Screenshots/Lump sum screen.jpeg" height="400"/> |
 | *Initial loading screen establishing the app's brand and identity.* | *Central hub displaying total wealth summary and quick navigation.* | *Projection tools for Systematic Investment Plans and wealth compounding.* | *Growth forecasting for single, one-time investment amounts.* |
 
-| Real Wealth Analysis | Combined Portfolio (Standard) | Advanced Projections | Extended Configurations |
-| :---: | :---: | :---: | :---: |
-| <img src="Screenshots/Real wealth screen.jpeg" width="220"/> | <img src="Screenshots/Combined screen(Without advanced settings).jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-1.jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-2.jpeg" width="220"/> |
-| *Inflation-adjusted returns to visualize true future purchasing power.* | *Holistic view of mixed investment strategies using standard parameters.* | *Detailed simulation incorporating custom step-up rates and variables.* | *Granular control over taxation, withdrawal rules, and risk factors.* |
+| Real Wealth Analysis | Combined Portfolio (Standard) | Advanced Projections | Extended Configurations(Advanced Projections) | Smart Hold Validation |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Real wealth screen.jpeg" height="400"/> | <img src="Screenshots/Combined screen(Without advanced settings).jpeg" height="400"/> | <img src="Screenshots/Combined screen(with advanced settings)-1.jpeg" height="400"/> | <img src="Screenshots/Combined screen(with advanced settings)-2.jpeg" height="400"/> | <img src="Screenshots/smart hold(0 invalid).jpeg" height="400"/> |
+| *Inflation-adjusted returns to visualize true future purchasing power.* | *Holistic view of mixed investment strategies using standard parameters.* | *Detailed simulation incorporating custom step-up rates and variables.* | *Granular control over taxation, withdrawal rules, and risk factors.* | *Input validation enforcing minimum holding periods to accurately calculate STCG bypass.* |
 </p>
-
 ---
 ## ✨ Core Features
 
