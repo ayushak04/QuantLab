@@ -9,7 +9,6 @@
 <p align="center">
   <b>Institutional-grade financial forecasting and portfolio simulation engine for Android.</b>
 </p>
-
 ---
 
 ## 📖 Overview
@@ -35,15 +34,20 @@ Because the same inputs invariably generate identical outputs, this engine is ex
 > **Note:** Screenshots and interactive UI demonstrations will be populated here.
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Dashboard+UI" alt="Dashboard" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Month-by-Month+Data" alt="Simulation" width="250"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://via.placeholder.com/250x500.png?text=Tax+Analysis" alt="Tax Analysis" width="250"/>
+## 📱 Application Showcase
+
+| Splash Screen | Main Dashboard | SIP Calculator | Lump Sum Projections |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Splash screen.jpeg" width="220"/> | <img src="Screenshots/Dashboard.jpeg" width="220"/> | <img src="Screenshots/SIP screen.jpeg" width="220"/> | <img src="Screenshots/Lump sum screen.jpeg" width="220"/> |
+| *Initial loading screen establishing the app's brand and identity.* | *Central hub displaying total wealth summary and quick navigation.* | *Projection tools for Systematic Investment Plans and wealth compounding.* | *Growth forecasting for single, one-time investment amounts.* |
+
+| Real Wealth Analysis | Combined Portfolio (Standard) | Advanced Projections | Extended Configurations |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Real wealth screen.jpeg" width="220"/> | <img src="Screenshots/Combined screen(Without advanced settings).jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-1.jpeg" width="220"/> | <img src="Screenshots/Combined screen(with advanced settings)-2.jpeg" width="220"/> |
+| *Inflation-adjusted returns to visualize true future purchasing power.* | *Holistic view of mixed investment strategies using standard parameters.* | *Detailed simulation incorporating custom step-up rates and variables.* | *Granular control over taxation, withdrawal rules, and risk factors.* |
 </p>
 
 ---
-
 ## ✨ Core Features
 
 QuantLab is built to handle complex financial mathematics without blocking the main thread, ensuring a buttery-smooth user experience.
@@ -54,9 +58,7 @@ QuantLab is built to handle complex financial mathematics without blocking the m
 *   **🧠 Smart Hold Strategy:** Algorithmic logic for optimal asset retention and withdrawal optimization.
 *   **📉 Expense Ratio Compounding:** Accurate deduction and compounding of institutional fees over time.
 *   **📊 Clean Interactive Dashboard:** A reactive, Material Design-inspired interface for rapid data consumption.
-
 ---
-
 ## 🛠️ Tech Stack & Architecture
 
 *   **Platform:** Native Android
@@ -66,9 +68,7 @@ QuantLab is built to handle complex financial mathematics without blocking the m
 *   **Design Philosophy:** High-performance rendering with a focus on responsive, institutional-grade UX.
 
 *   
-
 ---
-
 ## 🚀 Future Roadmap: The Stochastic Engine
 
 While the current engine is deterministic, the long-term architectural goal for QuantLab is to transition into a robust **Stochastic Financial Simulation Engine**. 
@@ -78,9 +78,7 @@ Future releases will introduce:
 *   **Probability Distributions & Curves:** Visualizing the spread of potential financial outcomes.
 *   **Random Market Volatility Modeling:** Injecting realistic market turbulence into forecasts.
 *   **Risk Analysis & Confidence Intervals:** Calculating the exact probability of success for different withdrawal strategies.
-
 ---
-
 ## 💻 Getting Started
 
 To clone and run this application locally, you will need [Git](https://git-scm.com) and [Android Studio](https://developer.android.com/studio) installed on your computer.
@@ -103,23 +101,15 @@ Allow Android Studio to sync the Gradle build files and download necessary depen
 
 Run the application:
 Select an emulator or a physical Android device and click the Run button (Shift + F10).
-
 🤝 Contributing & License
-Note: Strict contribution guidelines and Open Source licenses will be applied in upcoming commits.
+Copyright (c) 2026 Ayush Kumar
+All Rights Reserved.
 
-QuantLab is currently maintained as an active development portfolio piece.
+This project is published for portfolio and demonstration purposes only.
+Permission is NOT granted to copy, modify, merge, publish, distribute, 
+sublicense, or sell copies of this software or its source code. 
 
-
-*(Make sure to replace `YOUR_USERNAME` in the clone link with your actual GitHub username).*
-
-2. **Commit and Push:**
-   Save the file and run your Git commands:
-
-   ```bash
-   git add README.md
-   git commit -m "docs: finalize readme with roadmap and build instructions"
-   git push
-
+For inquiries, please contact the repository owner.
    
 
 
