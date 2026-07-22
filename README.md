@@ -9,8 +9,6 @@
 <p align="center">
   <b>Institutional-grade financial forecasting and portfolio simulation engine for Android.</b>
 </p>
----
-
 ## 📖 Overview
 
 **QuantLab** is a sophisticated Android application engineered for high-precision financial forecasting and institutional-grade portfolio analysis.
